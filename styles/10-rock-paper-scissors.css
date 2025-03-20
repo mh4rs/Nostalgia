@@ -6,6 +6,10 @@ body {
   font-family: Arial;
 }
 
+.game-container {
+  text-align: center;
+  margin-top: 160px;
+}
 .title {
   font-size: 30px;
   font-weight: bold;
